@@ -159,18 +159,7 @@ My goal is to become a professional software developer, work with international 
 
 </p>
 
----
 
-# 📊 GitHub Analytics
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZubayeerAlam&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"
-    alt="Zubayeer Alam GitHub Stats"
-  />
-</p>
 
 ### 💻 Most Used Languages
 
@@ -190,48 +179,6 @@ My goal is to become a professional software developer, work with international 
     src="https://streak-stats.demolab.com/?user=ZubayeerAlam&hide_border=true"
     alt="Zubayeer Alam GitHub Contribution Streak"
   />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZubayeerAlam&hide_border=true"
-    alt="Zubayeer Alam Contribution Activity Graph"
-  />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ZubayeerAlam&theme=flat&no-frame=true&margin-w=10&row=1"
-    alt="Zubayeer Alam GitHub Trophies"
-  />
-</p>
-
----
-
-# 📊 GitHub Overview
-
-<p align="center">
-
-<a href="https://github.com/ZubayeerAlam?tab=repositories">
-<img src="https://img.shields.io/github/repos/ZubayeerAlam?label=Repositories&style=for-the-badge" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/ZubayeerAlam?tab=followers">
-<img src="https://img.shields.io/github/followers/ZubayeerAlam?label=Followers&style=for-the-badge" alt="Followers"/>
-</a>
-
-<a href="https://github.com/ZubayeerAlam?tab=repositories">
-<img src="https://img.shields.io/github/stars/ZubayeerAlam?affiliations=OWNER&label=Total%20Stars&style=for-the-badge" alt="Total Stars"/>
-</a>
-
 </p>
 
 ---
