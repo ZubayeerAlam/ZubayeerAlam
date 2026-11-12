@@ -221,30 +221,6 @@ A Flutter application designed to help users create and track their daily habits
 
 ---
 
-## 🚕 Easy Taxi
-
-A Flutter-based taxi application project focused on mobile UI development and application flow.
-
-**Technologies:**
-
-`Flutter` `Dart` `UI/UX`
-
-🔗 **Repository:** [Easy Taxi](https://github.com/ZubayeerAlam)
-
----
-
-## 📱 Instagram Clone
-
-A Flutter project recreating Instagram-style UI and application flows for learning purposes.
-
-**Technologies:**
-
-`Flutter` `Dart` `UI/UX`
-
-🔗 **Repository:** [Instagram Clone](https://github.com/ZubayeerAlam)
-
----
-
 # 📚 Currently Learning
 
 ```text
